@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+<defs><style>.t{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial;fill:#111;}.h{font-weight:800;font-size:34px;}.b{font-weight:700;font-size:22px;fill:white;}.s{font-size:18px;fill:#111;}</style></defs>
+<text x="80" y="50" class="t h">Moti del 1820–1821: Spagna, Due Sicilie, Piemonte</text>
+<rect x="80" y="90" rx="16" ry="16" width="520" height="64" fill="#b11a1a" opacity="0.92"/>
+<text x="104" y="130" class="b">Cause: reazione + crisi economica</text>
+<line x1="340.0" y1="154" x2="340.0" y2="192" stroke="#b11a1a" stroke-width="6" stroke-linecap="round"/>
+<polygon points="330.0,182 350.0,182 340.0,200" fill="#b11a1a"/>
+<rect x="80" y="200" rx="16" ry="16" width="520" height="64" fill="#b11a1a" opacity="0.92"/>
+<text x="104" y="240" class="b">Pronunciamenti militari</text>
+<line x1="340.0" y1="264" x2="340.0" y2="302" stroke="#b11a1a" stroke-width="6" stroke-linecap="round"/>
+<polygon points="330.0,292 350.0,292 340.0,310" fill="#b11a1a"/>
+<rect x="80" y="310" rx="16" ry="16" width="520" height="64" fill="#b11a1a" opacity="0.92"/>
+<text x="104" y="350" class="b">Costituzioni e fratture interne</text>
+<line x1="340.0" y1="374" x2="340.0" y2="412" stroke="#b11a1a" stroke-width="6" stroke-linecap="round"/>
+<polygon points="330.0,402 350.0,402 340.0,420" fill="#b11a1a"/>
+<rect x="80" y="420" rx="16" ry="16" width="520" height="64" fill="#b11a1a" opacity="0.92"/>
+<text x="104" y="460" class="b">Intervento delle potenze e repressione</text>
+<line x1="340.0" y1="484" x2="340.0" y2="522" stroke="#b11a1a" stroke-width="6" stroke-linecap="round"/>
+<polygon points="330.0,512 350.0,512 340.0,530" fill="#b11a1a"/>
+<rect x="80" y="530" rx="16" ry="16" width="520" height="64" fill="#b11a1a" opacity="0.92"/>
+<text x="104" y="570" class="b">Eccezione: Grecia (successo)</text>
+</svg>
